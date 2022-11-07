@@ -1,6 +1,6 @@
-import App from './App.svelte';
+import Registration from './Registration.svelte';
 
-const app = new App({
+const app = new Registration({
 	target: document.body
 });
 
